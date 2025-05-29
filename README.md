@@ -80,5 +80,5 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehcaguiar&theme=dark&custom_title=Tecnlogias&langs_count=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehcaguiar&theme=dark&custom_title=Tecnlogias&langs_count=1&layout=compact"
 />
