@@ -8,14 +8,14 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
 
 
 <p align="left">
-    <a href="in/guilhermehcaguiar">
+    <a href="www.linkedin.com/in/guilhermehcaguiar">
         <img 
             alt="linkedin" 
             title="Meu perfil no Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-meu%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href=>
         <img 
             alt="email" 
             title="Email para contato" 
