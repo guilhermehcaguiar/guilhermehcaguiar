@@ -8,7 +8,7 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
 
 
 <p align="left">
-    <a href="www.linkedin.com/in/guilhermehcaguiar">
+    <a href="https://www.linkedin.com/in/guilhermehcaguiar">
         <img 
             alt="linkedin" 
             title="Meu perfil no Linkedin" 
