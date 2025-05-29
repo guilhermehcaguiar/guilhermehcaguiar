@@ -70,7 +70,7 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=guilhermehcaguiar&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
 />
@@ -78,7 +78,7 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehcaguiar&theme=dark&custom_title=Tecnlogias&langs_count=7&layout=compact"
 />
