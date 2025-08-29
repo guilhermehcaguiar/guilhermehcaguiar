@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da computação`**
 
-Me chamo Guilherme Henrique Campos Aguiar, tenho 18 anos, sou natural de Pernambuco e atualmente curso **Ciências da Computação** na **Uninassau**.
+Me chamo Guilherme Henrique Campos Aguiar, tenho 19 anos, sou natural de Pernambuco e atualmente curso **Ciências da Computação** na **Uninassau**.
 Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor. Tenho facilidade em aprender e estou sempre buscando evoluir, explorar novas ferramentas e colocar a mão no código!
 Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribuir com projetos que façam a diferença.
 
