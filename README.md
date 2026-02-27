@@ -106,14 +106,9 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
 ### 📊 Estatísticas
 <div align="center">
 
-| | | |
-| :-: | :-: | :-: |
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermehcaguiar&theme=dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermehcaguiar&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermehcaguiar&theme=dark&utcOffset=-3) |
-
-<br />
-
 | | |
 | :-: | :-: |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermehcaguiar&theme=dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermehcaguiar&theme=dark) |
 | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermehcaguiar&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehcaguiar&theme=dark)](https://git.io/streak-stats) |
 
 </div>
