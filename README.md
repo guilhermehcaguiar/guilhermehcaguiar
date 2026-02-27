@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
             src="https://custom-icon-badges.demolab.com/badge/-meu%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
         />
     </a>
-    <a href=>
+    <a href="mailto:guilherme.ghca@hotmail.com">
         <img 
             alt="email" 
             title="Email para contato" 
