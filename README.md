@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Guilherme Aguiar
 
-**`Estudante de Ciências da computação`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Guilherme Henrique Campos Aguiar, tenho 19 anos, sou natural de Pernambuco e atualmente curso **Ciências da Computação** na **Uninassau**.
-Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor. Tenho facilidade em aprender e estou sempre buscando evoluir, explorar novas ferramentas e colocar a mão no código!
-Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribuir com projetos que façam a diferença.
+Me chamo **Guilherme Henrique Campos Aguiar**, tenho 19 anos, sou natural de Pernambuco e atualmente curso **Ciências da Computação na Uninassau**. 
+
+Sou apaixonado por tecnologia e estou focado em construir aplicações completas e eficientes. Tenho facilidade em aprender novas ferramentas e estou sempre buscando evoluir, explorar tecnologias modernas e colocar a "mão no código". Meu objetivo é transformar curiosidade em conhecimento técnico e contribuir com projetos que gerem impacto real e façam a diferença.
 
 
 <p align="left">
@@ -104,20 +104,17 @@ Meu objetivo é transformar curiosidade em conhecimento e, com o tempo, contribu
 ---
 
 ### 📊 Estatísticas
+<div align="center">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermehcaguiar&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
+| | | |
+| :-: | :-: | :-: |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermehcaguiar&theme=dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermehcaguiar&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermehcaguiar&theme=dark&utcOffset=-3) |
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehcaguiar&theme=dark&layout=donut&custom_title=Tecnlogias&langs_count=7"
-/>
+<br />
+
+| | |
+| :-: | :-: |
+| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermehcaguiar&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehcaguiar&theme=dark)](https://git.io/streak-stats) |
+
+</div>
+
