@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
         <img 
             alt="linkedin" 
             title="Meu perfil no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-meu%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
         />
     </a>
     <a href="mailto:guilherme.ghca@hotmail.com">
@@ -105,10 +105,10 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermehcaguiar&theme=dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermehcaguiar&theme=github_dark" width="100%" />
 
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermehcaguiar&theme=dark" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermehcaguiar&theme=dark" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermehcaguiar&theme=github_dark" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermehcaguiar&theme=github_dark" width="49.5%" />
 </div>
