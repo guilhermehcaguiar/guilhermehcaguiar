@@ -91,6 +91,14 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
