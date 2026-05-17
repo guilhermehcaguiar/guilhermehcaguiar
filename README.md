@@ -1,10 +1,9 @@
 # 👨🏻‍💻 Guilherme Aguiar
 
-**`Desenvolvedor Full-Stack`**
+**`Full-Stack Dev`**
 
-Me chamo **Guilherme Henrique Campos Aguiar**, tenho 19 anos, sou natural de Pernambuco e atualmente curso **Ciências da Computação na Uninassau**. 
-
-Sou apaixonado por tecnologia e estou focado em construir aplicações completas e eficientes. Tenho facilidade em aprender novas ferramentas e estou sempre buscando evoluir, explorar tecnologias modernas e colocar a "mão no código". Meu objetivo é transformar curiosidade em conhecimento técnico e contribuir com projetos que gerem impacto real e façam a diferença.
+I'm a Computer Science student passionate about building efficient solutions through code. My background combines hands-on IT experience with active software development, specifically creating **Python automations** to optimize business processes. 
+Currently, I'm diving deep into the JavaScript ecosystem (**React & Node.js**) while also exploring my strong interest in **Artificial Intelligence**. I'm driven by continuous learning and the desire to build scalable, high-impact applications.
 
 
 <p align="left">
@@ -21,21 +20,6 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
             title="Email para contato" 
             src="https://custom-icon-badges.demolab.com/badge/-guilherme.ghca@hotmail.com-black?style=for-the-badge&logo=mail&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/guilhermehcaguiar?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/guilhermehcaguiar?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/guilhermehcaguiar?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guilhermehcaguiar?color=d33623&labelColor=ba2211&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
