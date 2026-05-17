@@ -10,8 +10,8 @@ Sou apaixonado por tecnologia e estou focado em construir aplicações completas
 <p align="left">
     <a href="https://www.linkedin.com/in/guilhermehcaguiar">
         <img 
-            alt="linkedin" 
-            title="Meu perfil no Linkedin" 
+            alt="LinkedIn" 
+            title="Meu perfil no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
         />
     </a>
