@@ -10,21 +10,21 @@ Currently, I'm diving deep into the JavaScript ecosystem (**React & Node.js**) w
     <a href="https://www.linkedin.com/in/guilhermehcaguiar">
         <img 
             alt="LinkedIn" 
-            title="Meu perfil no LinkedIn" 
+            title="Connect with me on LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather"
         />
     </a>
     <a href="mailto:guilherme.ghca@hotmail.com">
         <img 
             alt="email" 
-            title="Email para contato" 
+            title="Send me an email" 
             src="https://custom-icon-badges.demolab.com/badge/-guilherme.ghca@hotmail.com-black?style=for-the-badge&logo=mail&logoColor=white"
         />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Tools
 <img 
     align="left" 
     alt="Python" 
@@ -103,7 +103,7 @@ Currently, I'm diving deep into the JavaScript ecosystem (**React & Node.js**) w
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermehcaguiar&theme=github_dark" width="100%" />
 
